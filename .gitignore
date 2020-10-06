@@ -23,10 +23,9 @@
 ### VS Code ###
 .vscode/
 wrapper
-/client-skeleton-provider/target
-/client-skeleton-consumer/target
-/client-skeleton-publisher/target
-/client-skeleton-subscriber/target
+/electricity-provider/target
+/electricity-consumer/target
+/electricity-operator/target
 /mvnw
 /mvnw.cmd
 /.settings
@@ -34,5 +33,5 @@ wrapper
 /.metadata/
 
 *.log
-
+.projet
 

@@ -9,13 +9,13 @@
 	</parent>
 	
 	<groupId>eu.arrowhead</groupId>	
-	<artifactId>client-skeleton</artifactId>
+	<artifactId>electricity-demo</artifactId>
 	<version>4.1.3.3</version>
 	<packaging>pom</packaging>
-	<name>client-skeleton-java-spring</name>
-	<description>Arrowhead Client Skeleton using Spring Boot</description>
+	<name>electricity-demo</name>
+	<description>Arrowhead demo pricing</description>
 	
-	<url>https://github.com/arrowhead-f/client-java-spring</url>
+	<!-- <url>https://github.com/arrowhead-f/client-java-spring</url> -->
 	<licenses>
     	<license>
 	     	<name>Apache License, Version 2.0</name>
@@ -24,10 +24,9 @@
   	</licenses>
 	
 	<modules>
-	    <module>client-skeleton-consumer</module>
-	    <module>client-skeleton-provider</module>
-	    <module>client-skeleton-subscriber</module>
-	    <module>client-skeleton-publisher</module>
+	    <module>electricity-consumer</module>
+	    <module>electricity-provider</module>
+	    <module>electricity-operator</module>
   	</modules>
 		
 	<dependencies>
