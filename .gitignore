@@ -11,6 +11,8 @@
 *.iws
 *.iml
 *.ipr
+.project
+.classpath
 
 ### NetBeans ###
 /nbproject/private/
@@ -33,5 +35,4 @@ wrapper
 /.metadata/
 
 *.log
-.project
-.classpath
+

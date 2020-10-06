@@ -4,7 +4,7 @@ This is the implementation of an Electricity management system for Arrowhead, de
 Junior Dongo\
 Distributed, Embedded and Intelligent Systems, Department of Computer Science, Aalborg University
 
-It is used to managed electricity pricing. Only price category is consider at the moment.
+It is used to manage electricity pricing. Only price category is consider at the moment.
 
 ### Requirements
 
